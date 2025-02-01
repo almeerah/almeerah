@@ -1,5 +1,5 @@
 # 💫 About Me:
-A data analytics consultant<br><br>I have experience working with Tableau, Alteryxl, SQL, Java and more<br>Clients that I have worked with include PwC, Northern Railways, Analytix Live and ValueBase.
+A data analytics consultant<br><br>I have experience working with Tableau, Alteryxl, SQL, Java and more<br>Clients that I have worked with include PwC, Merlin Entertainments and Invesco.
 
 
 ## 🌐 Socials:
