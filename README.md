@@ -1,33 +1,32 @@
-# 💫 About Me:
-A data analytics consultant<br><br>I have experience working with Tableau, Alteryxl, SQL, Java and more<br>Clients that I have worked with include PwC, Merlin Entertainments and Invesco.
+# 💫 About Me
 
+Hi, I'm a **Data Analytics Consultant** based in London. I help businesses transform data into meaningful insights through powerful visualisations and scalable analytics solutions. My experience spans industries and includes high-impact projects with clients such as **PwC**, **Merlin Entertainments**, **Invesco**, and **Thomson Reuters**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achasham) 
-
-# 💻 Tech Stack:
-![SQL](https://img.shields.io/badge/SQL-%23E34F26.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Tableau](https://img.shields.io/badge/tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Alteryx](https://img.shields.io/badge/Alteryx-%230057A1.svg?style=for-the-badge&logo=alteryx&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=almeerah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=almeerah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=almeerah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔍 Whether it's streamlining reporting processes, enabling C-suite strategy with executive dashboards, or training 1400+ users on tools like Power BI and Alteryx — I focus on delivering **clarity, efficiency, and business value**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=almeerah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**almeerah/almeerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Expertise
 
-Here are some ideas to get you started:
+- **Data Visualisation**: Tableau (Desktop, Server, Cloud), Microsoft Power BI  
+- **ETL & Data Prep**: Alteryx, Tableau Prep, Power Query  
+- **Data Engineering**: SQL (Snowflake, PostgreSQL), Power Automate  
+- **Business & Strategy**: Stakeholder management, C-suite reporting, training & enablement  
+- **Languages & Tools**: SQL, DAX, Java, Regular Expressions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Experience Highlights
+
+- 🧠 **PwC**: Trained 1400+ employees in Alteryx and Power BI; led short-term consulting engagements across teams.  
+- 🎢 **Merlin Entertainments**: Built strategic C-suite dashboards enabling executive performance monitoring.  
+- 📈 **Invesco**: Centralised Jira performance reporting for Marketing Analytics; automated backups with Power Automate.  
+- 💼 **Thomson Reuters**: Recognised by the CMO for building impactful dashboards and mentoring junior staff.  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/achasham)
+
+---
